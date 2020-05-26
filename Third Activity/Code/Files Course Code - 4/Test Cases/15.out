@@ -1,0 +1,9 @@
+*** Realizando a busca sem o auxílio de índice
+Registro inexistente.
+Número de páginas de disco acessadas: 17
+*** Realizando a busca com o auxílio de um índice secundário fortemente ligado
+Registro inexistente.
+Número de páginas de disco para carregar o arquivo de índice: 21
+Número de páginas de disco para acessar o arquivo de dados: 1
+
+A diferença no número de páginas de disco acessadas: 16

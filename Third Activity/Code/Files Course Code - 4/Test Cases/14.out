@@ -1,0 +1,43 @@
+*** Realizando a busca sem o auxílio de índice
+numero de identificacao do servidor: 8015786
+salario do servidor: 21752.03
+telefone celular do servidor: valor nao declarado
+nome do servidor: MANOEL SOARES SOARES JUNIOR
+cargo do servidor: PROFESSOR DO MAGISTERIO SUPERIOR
+
+numero de identificacao do servidor: 111111111
+salario do servidor: 9212.00
+telefone celular do servidor: (11)98192-0364
+nome do servidor: MANOEL SOARES SOARES JUNIOR
+cargo do servidor: PROFESSOR
+
+numero de identificacao do servidor: 222222222
+salario do servidor: 21938.00
+telefone celular do servidor: valor nao declarado
+nome do servidor: MANOEL SOARES SOARES JUNIOR
+cargo do servidor: PROF
+
+Número de páginas de disco acessadas: 17
+*** Realizando a busca com o auxílio de um índice secundário fortemente ligado
+numero de identificacao do servidor: 8015786
+salario do servidor: 21752.03
+telefone celular do servidor: valor nao declarado
+nome do servidor: MANOEL SOARES SOARES JUNIOR
+cargo do servidor: PROFESSOR DO MAGISTERIO SUPERIOR
+
+numero de identificacao do servidor: 111111111
+salario do servidor: 9212.00
+telefone celular do servidor: (11)98192-0364
+nome do servidor: MANOEL SOARES SOARES JUNIOR
+cargo do servidor: PROFESSOR
+
+numero de identificacao do servidor: 222222222
+salario do servidor: 21938.00
+telefone celular do servidor: valor nao declarado
+nome do servidor: MANOEL SOARES SOARES JUNIOR
+cargo do servidor: PROF
+
+Número de páginas de disco para carregar o arquivo de índice: 21
+Número de páginas de disco para acessar o arquivo de dados: 3
+
+A diferença no número de páginas de disco acessadas: 14

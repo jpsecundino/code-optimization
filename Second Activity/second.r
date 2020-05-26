@@ -1,5 +1,5 @@
 #Desabilite a linha abaixo caso o pacote ainda n�o foi instalado no sistema
-#install.packages("FrF2", repos = "http://cran.rstudio.com/") # Instala o pacote
+install.packages("FrF2", repos = "http://cran.rstudio.com/") # Instala o pacote
 
 library(FrF2) # Carrega o pacote para uso
 
@@ -10,20 +10,22 @@ plan.person = FrF2(nruns = 4,
                    replications = 1,
                    repeat.only = FALSE,
                    factor.names = list(
-                     Tecnica = c("interchange", "unrolling"),
-                     Tamanho = c("100", "1000")),
+                     Technique = c("interchange", "unrolling"),
+                     Matrix_Size = c("100", "1000")),
                    randomize = FALSE)
 
 summary(plan.person)
 
-# Variavel de resposta: Cache-Misses
-resultados = c(19899.45,1419769.1,11336.15,1671143.45)
+# Variavel de resposta: Cache-Loads
+#Cache_Loads = c(27965259.85,27079575553,25958001.5,24985846087)
+# Variavel de resposta: Cache_Misses
+#Cache_Misses = c(85282,70965097,102139,1313128643)
+# Variavel de resposta: Branch-Loads
+#Branch_Loads = c(1615342.75, 1048737075, 1116725.85, 551085250.2)
+# Variavel de resposta: Branch-Misses
+Branch_Misses = c(19899.45,1419769.1,11336.15,1671143.45)
 
-# comente a linha acima e tire o comentario da linha abaixo caso a variavel de resposta a ser analisada seja o numero de ciclos para transmissao
-#resultados = c(3, 5, 2, 4)
-
-
-plan.atualizado = add.response(design = plan.person, response = resultados)
+plan.atualizado = add.response(design = plan.person, response = Branch_Misses)
 
 summary(plan.atualizado)
 
@@ -32,8 +34,8 @@ MEPlot(plan.atualizado)
 IAPlot(plan.atualizado)
 
 
-# Modelo linear = resultados depende (~) de Rede e Acesso
-plan.formula = lm(plan.atualizado$resultados~(plan.atualizado$Rede*plan.atualizado$Acesso))
+# Modelo linear = Branch_Misses depende (~) de Rede e Acesso
+plan.formula = lm(plan.atualizado$Branch_Misses~(plan.atualizado$Tecnica*plan.atualizado$Tamanho))
 
 # A tabela fornecida na linha abaixo diz na coluna "Estimate" os valores de q0 (media), qA (Redes1), qB (Acesso1) e qAB (Redes e Acesso)
 summary(plan.formula)

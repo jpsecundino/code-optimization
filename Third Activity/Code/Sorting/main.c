@@ -7,7 +7,7 @@
 #define GB (1024 * MB)
 #define LARGEST_CACHE_SZ (3 * MB)
 #define NUM_SORTS 4
-#define VEC_SIZE 500000
+#define VEC_SIZE 200000
 static unsigned char dummy_buffer[LARGEST_CACHE_SZ];
 
 void cache_clean()

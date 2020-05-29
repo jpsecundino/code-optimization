@@ -1,0 +1,15 @@
+digraph {
+	graph [fontname=Arial, nodesep=0.125, ranksep=0.25];
+	node [fontcolor=white, fontname=Arial, height=0, shape=box, style=filled, width=0];
+	edge [fontname=Arial];
+	1 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="swap\n100.00%\n(100.00%)\n2386×"];
+	2 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="merge\n100.00%\n(100.00%)\n100×"];
+	5 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="bubblesort\n100.00%\n(100.00%)\n101×"];
+	5 -> 1 [arrowsize="1.00", color="#ff0000", fontcolor="#ff0000", fontsize="10.00", label="100.00%\n2386×", labeldistance="4.00", penwidth="4.00"];
+	5 -> 5 [arrowsize="1.00", color="#ff0000", fontcolor="#ff0000", fontsize="10.00", label="100×", labeldistance="4.00", penwidth="4.00"];
+	6 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="heapsort\n100.00%\n(100.00%)\n1×"];
+	7 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="mergesort\n100.00%\n(100.00%)\n201×"];
+	7 -> 2 [arrowsize="1.00", color="#ff0000", fontcolor="#ff0000", fontsize="10.00", label="100.00%\n100×", labeldistance="4.00", penwidth="4.00"];
+	7 -> 7 [arrowsize="1.00", color="#ff0000", fontcolor="#ff0000", fontsize="10.00", label="200×", labeldistance="4.00", penwidth="4.00"];
+	8 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="radixsort\n100.00%\n(100.00%)\n1×"];
+}

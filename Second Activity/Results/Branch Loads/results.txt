@@ -1,0 +1,6 @@
+> cat("Influencia devido ao fator Tecnica:", InfluenciaA)
+Influencia devido ao fator Tecnica: 0.08146843
+> cat("Influencia devido ao fator Tamanho da Matriz:", InfluenciaB)
+Influencia devido ao fator Tamanho da Matriz: 0.837389
+> cat("Influencia devido a interaÃ§Ã£o dos fatores:", InfluenciaAB)
+Influencia devido a interaÃ§Ã£o dos fatores: 0.08114258

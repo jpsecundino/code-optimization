@@ -1,0 +1,110 @@
+# started on Wed Jun 17 20:41:59 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+          3.883,59 msec task-clock                #    0,998 CPUs utilized          
+               198      context-switches          #    0,051 K/sec                  
+                 2      cpu-migrations            #    0,001 K/sec                  
+            24.817      page-faults               #    0,006 M/sec                  
+     9.280.179.601      cycles                    #    2,390 GHz                    
+     2.920.664.342      stalled-cycles-frontend   #   31,47% frontend cycles idle   
+    19.346.285.630      instructions              #    2,08  insn per cycle         
+                                                  #    0,15  stalled cycles per insn
+     3.351.907.048      branches                  #  863,096 M/sec                  
+        42.598.182      branch-misses             #    1,27% of all branches        
+
+       3,890736140 seconds time elapsed
+
+       3,796634000 seconds user
+       0,088107000 seconds sys
+
+
+# started on Wed Jun 17 20:42:03 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+          4.371,22 msec task-clock                #    0,997 CPUs utilized          
+               458      context-switches          #    0,105 K/sec                  
+                 3      cpu-migrations            #    0,001 K/sec                  
+            24.815      page-faults               #    0,006 M/sec                  
+    10.449.468.713      cycles                    #    2,391 GHz                    
+     4.188.336.792      stalled-cycles-frontend   #   40,08% frontend cycles idle   
+    19.363.062.807      instructions              #    1,85  insn per cycle         
+                                                  #    0,22  stalled cycles per insn
+     3.355.017.233      branches                  #  767,524 M/sec                  
+        44.275.296      branch-misses             #    1,32% of all branches        
+
+       4,382183573 seconds time elapsed
+
+       4,256427000 seconds user
+       0,115794000 seconds sys
+
+
+# started on Wed Jun 17 20:42:08 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+          3.810,18 msec task-clock                #    0,996 CPUs utilized          
+               479      context-switches          #    0,126 K/sec                  
+                 5      cpu-migrations            #    0,001 K/sec                  
+            24.815      page-faults               #    0,007 M/sec                  
+     9.091.249.864      cycles                    #    2,386 GHz                    
+     2.691.613.371      stalled-cycles-frontend   #   29,61% frontend cycles idle   
+    19.366.595.084      instructions              #    2,13  insn per cycle         
+                                                  #    0,14  stalled cycles per insn
+     3.355.789.784      branches                  #  880,744 M/sec                  
+        45.999.551      branch-misses             #    1,37% of all branches        
+
+       3,824671100 seconds time elapsed
+
+       3,716182000 seconds user
+       0,095798000 seconds sys
+
+
+# started on Wed Jun 17 20:42:11 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+          4.081,03 msec task-clock                #    0,993 CPUs utilized          
+             1.332      context-switches          #    0,326 K/sec                  
+                 0      cpu-migrations            #    0,000 K/sec                  
+            24.817      page-faults               #    0,006 M/sec                  
+     9.755.411.351      cycles                    #    2,390 GHz                    
+     3.414.490.120      stalled-cycles-frontend   #   35,00% frontend cycles idle   
+    19.412.070.802      instructions              #    1,99  insn per cycle         
+                                                  #    0,18  stalled cycles per insn
+     3.364.320.360      branches                  #  824,381 M/sec                  
+        43.542.327      branch-misses             #    1,29% of all branches        
+
+       4,108952984 seconds time elapsed
+
+       4,025557000 seconds user
+       0,059667000 seconds sys
+
+
+# started on Wed Jun 17 20:42:16 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+          4.418,84 msec task-clock                #    0,992 CPUs utilized          
+             1.521      context-switches          #    0,344 K/sec                  
+                 1      cpu-migrations            #    0,000 K/sec                  
+            24.816      page-faults               #    0,006 M/sec                  
+    10.556.956.447      cycles                    #    2,389 GHz                    
+     4.233.871.484      stalled-cycles-frontend   #   40,11% frontend cycles idle   
+    19.419.404.067      instructions              #    1,84  insn per cycle         
+                                                  #    0,22  stalled cycles per insn
+     3.365.699.955      branches                  #  761,671 M/sec                  
+        47.778.146      branch-misses             #    1,42% of all branches        
+
+       4,454285165 seconds time elapsed
+
+       4,332770000 seconds user
+       0,091593000 seconds sys
+
+

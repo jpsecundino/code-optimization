@@ -1,0 +1,14 @@
+# started on Thu Jun 18 17:52:10 2020
+
+
+ Performance counter stats for './btrees-paper 20':
+
+     8.363.765.272      L1-dcache-loads                                             
+        99.478.476      L1-dcache-load-misses     #    1,19% of all L1-dcache hits  
+
+       5,502991284 seconds time elapsed
+
+       5,335346000 seconds user
+       0,112070000 seconds sys
+
+

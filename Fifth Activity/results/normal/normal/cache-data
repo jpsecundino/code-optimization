@@ -1,0 +1,140 @@
+# started on Wed Jul  1 20:19:10 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.085.960.288      L1-dcache-loads                                             
+     1.410.155.812      L1-dcache-load-misses     #    4,85% of all L1-dcache hits  
+
+      17,165696048 seconds time elapsed
+
+      17,144051000 seconds user
+       0,016004000 seconds sys
+
+
+# started on Wed Jul  1 20:21:56 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.087.950.905      L1-dcache-loads                                             
+     1.412.630.981      L1-dcache-load-misses     #    4,86% of all L1-dcache hits  
+
+      18,014073591 seconds time elapsed
+
+      17,999355000 seconds user
+       0,011996000 seconds sys
+
+
+# started on Wed Jul  1 20:19:28 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.035.506.256      L1-dcache-loads                                             
+     1.415.334.076      L1-dcache-load-misses     #    4,87% of all L1-dcache hits  
+
+      19,534977461 seconds time elapsed
+
+      19,453064000 seconds user
+       0,016001000 seconds sys
+
+
+# started on Wed Jul  1 20:19:47 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.066.630.602      L1-dcache-loads                                             
+     1.413.883.020      L1-dcache-load-misses     #    4,86% of all L1-dcache hits  
+
+      18,985336997 seconds time elapsed
+
+      18,934772000 seconds user
+       0,012005000 seconds sys
+
+
+# started on Wed Jul  1 20:20:06 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.062.872.438      L1-dcache-loads                                             
+     1.417.145.971      L1-dcache-load-misses     #    4,88% of all L1-dcache hits  
+
+      19,266116507 seconds time elapsed
+
+      19,188506000 seconds user
+       0,015963000 seconds sys
+
+
+# started on Wed Jul  1 20:20:25 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.047.746.503      L1-dcache-loads                                             
+     1.415.521.648      L1-dcache-load-misses     #    4,87% of all L1-dcache hits  
+
+      19,911412291 seconds time elapsed
+
+      19,858112000 seconds user
+       0,036003000 seconds sys
+
+
+# started on Wed Jul  1 20:20:45 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.083.063.338      L1-dcache-loads                                             
+     1.412.269.787      L1-dcache-load-misses     #    4,86% of all L1-dcache hits  
+
+      17,552971111 seconds time elapsed
+
+      17,523930000 seconds user
+       0,019986000 seconds sys
+
+
+# started on Wed Jul  1 20:21:03 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.080.708.590      L1-dcache-loads                                             
+     1.409.707.886      L1-dcache-load-misses     #    4,85% of all L1-dcache hits  
+
+      18,272137778 seconds time elapsed
+
+      18,252502000 seconds user
+       0,012005000 seconds sys
+
+
+# started on Wed Jul  1 20:21:21 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.087.092.700      L1-dcache-loads                                             
+     1.410.486.433      L1-dcache-load-misses     #    4,85% of all L1-dcache hits  
+
+      17,022860591 seconds time elapsed
+
+      17,014195000 seconds user
+       0,003999000 seconds sys
+
+
+# started on Wed Jul  1 20:21:38 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+    29.086.517.186      L1-dcache-loads                                             
+     1.410.728.869      L1-dcache-load-misses     #    4,85% of all L1-dcache hits  
+
+      17,169684751 seconds time elapsed
+
+      17,122518000 seconds user
+       0,039996000 seconds sys
+
+

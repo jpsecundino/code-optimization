@@ -1,0 +1,22 @@
+# started on Wed Jun 17 20:26:59 2020
+
+
+ Performance counter stats for './btrees-paper 20':
+
+          4.968,26 msec task-clock                #    1,000 CPUs utilized          
+                41      context-switches          #    0,008 K/sec                  
+                 0      cpu-migrations            #    0,000 K/sec                  
+            24.814      page-faults               #    0,005 M/sec                  
+    11.890.712.958      cycles                    #    2,393 GHz                    
+     2.110.128.901      stalled-cycles-frontend   #   17,75% frontend cycles idle   
+    29.275.619.530      instructions              #    2,46  insn per cycle         
+                                                  #    0,07  stalled cycles per insn
+     5.576.496.574      branches                  # 1122,424 M/sec                  
+         1.615.641      branch-misses             #    0,03% of all branches        
+
+       4,969585040 seconds time elapsed
+
+       4,892795000 seconds user
+       0,076012000 seconds sys
+
+

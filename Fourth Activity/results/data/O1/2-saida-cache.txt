@@ -1,0 +1,14 @@
+# started on Thu Jun 18 17:51:03 2020
+
+
+ Performance counter stats for './btrees-O1 20':
+
+     5.756.713.469      L1-dcache-loads                                             
+       100.896.130      L1-dcache-load-misses     #    1,75% of all L1-dcache hits  
+
+       5,090151024 seconds time elapsed
+
+       4,953715000 seconds user
+       0,100034000 seconds sys
+
+

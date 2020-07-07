@@ -1,0 +1,70 @@
+# started on Thu Jun 18 17:51:40 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+     5.197.790.757      L1-dcache-loads                                             
+        96.409.599      L1-dcache-load-misses     #    1,85% of all L1-dcache hits  
+
+       3,800886075 seconds time elapsed
+
+       3,697635000 seconds user
+       0,087943000 seconds sys
+
+
+# started on Thu Jun 18 17:51:44 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+     5.197.790.293      L1-dcache-loads                                             
+        97.209.908      L1-dcache-load-misses     #    1,87% of all L1-dcache hits  
+
+       3,870677018 seconds time elapsed
+
+       3,730457000 seconds user
+       0,115827000 seconds sys
+
+
+# started on Thu Jun 18 17:51:48 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+     5.198.111.945      L1-dcache-loads                                             
+        96.284.462      L1-dcache-load-misses     #    1,85% of all L1-dcache hits  
+
+       3,724003106 seconds time elapsed
+
+       3,606644000 seconds user
+       0,083782000 seconds sys
+
+
+# started on Thu Jun 18 17:51:52 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+     5.197.604.922      L1-dcache-loads                                             
+        94.908.515      L1-dcache-load-misses     #    1,83% of all L1-dcache hits  
+
+       3,828641642 seconds time elapsed
+
+       3,763258000 seconds user
+       0,063987000 seconds sys
+
+
+# started on Thu Jun 18 17:51:56 2020
+
+
+ Performance counter stats for './btrees-O3 20':
+
+     5.197.889.980      L1-dcache-loads                                             
+        97.452.291      L1-dcache-load-misses     #    1,87% of all L1-dcache hits  
+
+       3,727294130 seconds time elapsed
+
+       3,587134000 seconds user
+       0,111723000 seconds sys
+
+

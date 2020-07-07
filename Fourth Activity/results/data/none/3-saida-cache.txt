@@ -1,0 +1,14 @@
+# started on Thu Jun 18 17:50:11 2020
+
+
+ Performance counter stats for './btree-none 20':
+
+     8.977.739.130      L1-dcache-loads                                             
+        97.299.657      L1-dcache-load-misses     #    1,08% of all L1-dcache hits  
+
+       5,588296017 seconds time elapsed
+
+       5,478804000 seconds user
+       0,068184000 seconds sys
+
+

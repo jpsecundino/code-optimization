@@ -1,0 +1,14 @@
+# started on Wed Jul  1 20:37:43 2020
+
+
+ Performance counter stats for './matrixMult.exe 3 1024 1024 1024 1024':
+
+       321.505.013      branch-instructions                                         
+         1.286.606      branch-misses             #    0,40% of all branches        
+
+      16,043197442 seconds time elapsed
+
+      16,028619000 seconds user
+       0,007999000 seconds sys
+
+

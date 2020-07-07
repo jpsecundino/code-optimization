@@ -1,0 +1,14 @@
+# started on Wed Jul  1 20:29:53 2020
+
+
+ Performance counter stats for './matrixMult.exe 2 1024 1024 1024 1024':
+
+    26.939.289.996      L1-dcache-loads                                             
+     1.412.329.458      L1-dcache-load-misses     #    5,24% of all L1-dcache hits  
+
+      16,978387459 seconds time elapsed
+
+      16,960547000 seconds user
+       0,011994000 seconds sys
+
+

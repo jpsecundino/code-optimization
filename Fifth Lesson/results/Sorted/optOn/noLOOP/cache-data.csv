@@ -1,40 +1,40 @@
-# started on Tue Jun  2 21:27:20 2020
-
-6224681,,cache-references,4444881597,100,00,,
-643063,,cache-misses,4444881597,100,00,10,of all cache refs
-# started on Tue Jun  2 21:28:00 2020
-
-3132842,,cache-references,4446435959,100,00,,
-265420,,cache-misses,4446435959,100,00,8,of all cache refs
-# started on Tue Jun  2 21:27:24 2020
-
-3520942,,cache-references,4307691154,100,00,,
-464337,,cache-misses,4307691154,100,00,13,of all cache refs
-# started on Tue Jun  2 21:27:29 2020
-
-2643916,,cache-references,4375649135,100,00,,
-204159,,cache-misses,4375649135,100,00,7,of all cache refs
-# started on Tue Jun  2 21:27:33 2020
-
-5017518,,cache-references,4616882499,100,00,,
-598351,,cache-misses,4616882499,100,00,11,of all cache refs
-# started on Tue Jun  2 21:27:38 2020
-
-2990454,,cache-references,4415003668,100,00,,
-245876,,cache-misses,4415003668,100,00,8,of all cache refs
-# started on Tue Jun  2 21:27:42 2020
-
-2948650,,cache-references,4384410606,100,00,,
-222368,,cache-misses,4384410606,100,00,7,of all cache refs
-# started on Tue Jun  2 21:27:47 2020
-
-3068363,,cache-references,4391004503,100,00,,
-215754,,cache-misses,4391004503,100,00,7,of all cache refs
-# started on Tue Jun  2 21:27:51 2020
-
-2910057,,cache-references,4435123378,100,00,,
-233946,,cache-misses,4435123378,100,00,8,of all cache refs
-# started on Tue Jun  2 21:27:55 2020
-
-3211767,,cache-references,4447757728,100,00,,
-297986,,cache-misses,4447757728,100,00,9,of all cache refs
+# started on Tue Jun  2 21:27:20 2020,,,,,,,,,,,,
+,,,,,,,,,,,,
+6224681,,cache-references,4444881597,100,0,,,,,,,
+643063,,cache-misses,4444881597,100,0,10,of all cache refs,,,,6224681,643063
+# started on Tue Jun  2 21:28:00 2020,,,,,,,,,,,3132842,265420
+,,,,,,,,,,,3520942,464337
+3132842,,cache-references,4446435959,100,0,,,,,,2643916,204159
+265420,,cache-misses,4446435959,100,0,8,of all cache refs,,,,5017518,598351
+# started on Tue Jun  2 21:27:24 2020,,,,,,,,,,,2990454,245876
+,,,,,,,,,,,2948650,222368
+3520942,,cache-references,4307691154,100,0,,,,,,3068363,215754
+464337,,cache-misses,4307691154,100,0,13,of all cache refs,,,,2910057,233946
+# started on Tue Jun  2 21:27:29 2020,,,,,,,,,,,3211767,297986
+,,,,,,,,,,,,
+2643916,,cache-references,4375649135,100,0,,,,,,,
+204159,,cache-misses,4375649135,100,0,7,of all cache refs,,,,,
+# started on Tue Jun  2 21:27:33 2020,,,,,,,,,,,,
+,,,,,,,,,,,,
+5017518,,cache-references,4616882499,100,0,,,,,,,
+598351,,cache-misses,4616882499,100,0,11,of all cache refs,,,,,
+# started on Tue Jun  2 21:27:38 2020,,,,,,,,,,,,
+,,,,,,,,,,,,
+2990454,,cache-references,4415003668,100,0,,,,,,,
+245876,,cache-misses,4415003668,100,0,8,of all cache refs,,,,,
+# started on Tue Jun  2 21:27:42 2020,,,,,,,,,,,,
+,,,,,,,,,,,,
+2948650,,cache-references,4384410606,100,0,,,,,,,
+222368,,cache-misses,4384410606,100,0,7,of all cache refs,,,,,
+# started on Tue Jun  2 21:27:47 2020,,,,,,,,,,,,
+,,,,,,,,,,,,
+3068363,,cache-references,4391004503,100,0,,,,,,,
+215754,,cache-misses,4391004503,100,0,7,of all cache refs,,,,,
+# started on Tue Jun  2 21:27:51 2020,,,,,,,,,,,,
+,,,,,,,,,,,,
+2910057,,cache-references,4435123378,100,0,,,,,,,
+233946,,cache-misses,4435123378,100,0,8,of all cache refs,,,,,
+# started on Tue Jun  2 21:27:55 2020,,,,,,,,,,,,
+,,,,,,,,,,,,
+3211767,,cache-references,4447757728,100,0,,,,,,,
+297986,,cache-misses,4447757728,100,0,9,of all cache refs,,,,,

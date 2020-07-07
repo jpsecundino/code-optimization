@@ -1,0 +1,110 @@
+# started on Wed Jun 17 20:25:49 2020
+
+
+ Performance counter stats for './btrees-O1 20':
+
+          3.884,27 msec task-clock                #    1,000 CPUs utilized          
+                29      context-switches          #    0,007 K/sec                  
+                 1      cpu-migrations            #    0,000 K/sec                  
+            24.817      page-faults               #    0,006 M/sec                  
+     9.282.111.734      cycles                    #    2,390 GHz                    
+     1.885.002.273      stalled-cycles-frontend   #   20,31% frontend cycles idle   
+    21.752.324.139      instructions              #    2,34  insn per cycle         
+                                                  #    0,09  stalled cycles per insn
+     4.194.623.014      branches                  # 1079,899 M/sec                  
+         1.165.742      branch-misses             #    0,03% of all branches        
+
+       3,885370489 seconds time elapsed
+
+       3,812785000 seconds user
+       0,072014000 seconds sys
+
+
+# started on Wed Jun 17 20:25:53 2020
+
+
+ Performance counter stats for './btrees-O1 20':
+
+          3.891,99 msec task-clock                #    0,999 CPUs utilized          
+               137      context-switches          #    0,035 K/sec                  
+                 2      cpu-migrations            #    0,001 K/sec                  
+            24.817      page-faults               #    0,006 M/sec                  
+     9.292.686.577      cycles                    #    2,388 GHz                    
+     1.880.907.220      stalled-cycles-frontend   #   20,24% frontend cycles idle   
+    21.753.121.421      instructions              #    2,34  insn per cycle         
+                                                  #    0,09  stalled cycles per insn
+     4.194.776.101      branches                  # 1077,798 M/sec                  
+         1.419.655      branch-misses             #    0,03% of all branches        
+
+       3,894692916 seconds time elapsed
+
+       3,824762000 seconds user
+       0,067942000 seconds sys
+
+
+# started on Wed Jun 17 20:25:57 2020
+
+
+ Performance counter stats for './btrees-O1 20':
+
+          3.880,67 msec task-clock                #    0,999 CPUs utilized          
+               205      context-switches          #    0,053 K/sec                  
+                 1      cpu-migrations            #    0,000 K/sec                  
+            24.816      page-faults               #    0,006 M/sec                  
+     9.277.047.078      cycles                    #    2,391 GHz                    
+     1.872.574.309      stalled-cycles-frontend   #   20,19% frontend cycles idle   
+    21.753.131.714      instructions              #    2,34  insn per cycle         
+                                                  #    0,09  stalled cycles per insn
+     4.194.814.585      branches                  # 1080,950 M/sec                  
+         1.245.372      branch-misses             #    0,03% of all branches        
+
+       3,885007161 seconds time elapsed
+
+       3,813528000 seconds user
+       0,067955000 seconds sys
+
+
+# started on Wed Jun 17 20:26:01 2020
+
+
+ Performance counter stats for './btrees-O1 20':
+
+          3.888,92 msec task-clock                #    0,999 CPUs utilized          
+               149      context-switches          #    0,038 K/sec                  
+                 1      cpu-migrations            #    0,000 K/sec                  
+            24.816      page-faults               #    0,006 M/sec                  
+     9.299.112.129      cycles                    #    2,391 GHz                    
+     1.893.974.214      stalled-cycles-frontend   #   20,37% frontend cycles idle   
+    21.752.976.605      instructions              #    2,34  insn per cycle         
+                                                  #    0,09  stalled cycles per insn
+     4.194.756.317      branches                  # 1078,644 M/sec                  
+         1.176.654      branch-misses             #    0,03% of all branches        
+
+       3,892500519 seconds time elapsed
+
+       3,817650000 seconds user
+       0,071955000 seconds sys
+
+
+# started on Wed Jun 17 20:26:05 2020
+
+
+ Performance counter stats for './btrees-O1 20':
+
+          3.883,07 msec task-clock                #    1,000 CPUs utilized          
+                15      context-switches          #    0,004 K/sec                  
+                 0      cpu-migrations            #    0,000 K/sec                  
+            24.816      page-faults               #    0,006 M/sec                  
+     9.286.980.173      cycles                    #    2,392 GHz                    
+     1.882.491.397      stalled-cycles-frontend   #   20,27% frontend cycles idle   
+    21.752.608.372      instructions              #    2,34  insn per cycle         
+                                                  #    0,09  stalled cycles per insn
+     4.194.682.616      branches                  # 1080,250 M/sec                  
+         1.183.889      branch-misses             #    0,03% of all branches        
+
+       3,883914660 seconds time elapsed
+
+       3,803542000 seconds user
+       0,079990000 seconds sys
+
+

@@ -1,0 +1,22 @@
+# started on Wed Jun 17 20:26:22 2020
+
+
+ Performance counter stats for './btrees-O2 20':
+
+          3.265,02 msec task-clock                #    1,000 CPUs utilized          
+                30      context-switches          #    0,009 K/sec                  
+                 2      cpu-migrations            #    0,001 K/sec                  
+            24.817      page-faults               #    0,008 M/sec                  
+     7.799.481.845      cycles                    #    2,389 GHz                    
+     1.195.963.245      stalled-cycles-frontend   #   15,33% frontend cycles idle   
+    20.535.332.274      instructions              #    2,63  insn per cycle         
+                                                  #    0,06  stalled cycles per insn
+     3.583.535.903      branches                  # 1097,555 M/sec                  
+         4.978.166      branch-misses             #    0,14% of all branches        
+
+       3,266186690 seconds time elapsed
+
+       3,197549000 seconds user
+       0,067947000 seconds sys
+
+

@@ -1,0 +1,22 @@
+# started on Wed Jun 17 20:25:28 2020
+
+
+ Performance counter stats for './btree-march 20':
+
+          5.143,50 msec task-clock                #    1,000 CPUs utilized          
+                42      context-switches          #    0,008 K/sec                  
+                 4      cpu-migrations            #    0,001 K/sec                  
+            24.818      page-faults               #    0,005 M/sec                  
+    12.295.188.632      cycles                    #    2,390 GHz                    
+     3.193.843.893      stalled-cycles-frontend   #   25,98% frontend cycles idle   
+    30.810.343.115      instructions              #    2,51  insn per cycle         
+                                                  #    0,10  stalled cycles per insn
+     5.576.546.929      branches                  # 1084,192 M/sec                  
+         1.689.417      branch-misses             #    0,03% of all branches        
+
+       5,145323051 seconds time elapsed
+
+       5,072065000 seconds user
+       0,072000000 seconds sys
+
+

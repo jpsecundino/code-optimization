@@ -1,0 +1,22 @@
+# started on Wed Jun 17 20:13:41 2020
+
+
+ Performance counter stats for './btree-none 20':
+
+          3.901,11 msec task-clock                #    1,000 CPUs utilized          
+                28      context-switches          #    0,007 K/sec                  
+                 0      cpu-migrations            #    0,000 K/sec                  
+            17.089      page-faults               #    0,004 M/sec                  
+     9.340.218.375      cycles                    #    2,394 GHz                    
+     2.187.871.393      stalled-cycles-frontend   #   23,42% frontend cycles idle   
+    24.016.206.108      instructions              #    2,57  insn per cycle         
+                                                  #    0,09  stalled cycles per insn
+     4.345.979.015      branches                  # 1114,036 M/sec                  
+         1.080.231      branch-misses             #    0,02% of all branches        
+
+       3,902576709 seconds time elapsed
+
+       3,869539000 seconds user
+       0,032012000 seconds sys
+
+

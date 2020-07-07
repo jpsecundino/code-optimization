@@ -1,0 +1,140 @@
+# started on Wed Jul  1 20:54:28 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.162.028.865      branch-instructions                                         
+         2.555.023      branch-misses             #    0,22% of all branches        
+
+      19,985603946 seconds time elapsed
+
+      19,849855000 seconds user
+       0,023961000 seconds sys
+
+
+# started on Wed Jul  1 20:57:20 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.127.237.402      branch-instructions                                         
+         1.311.265      branch-misses             #    0,12% of all branches        
+
+      17,193771098 seconds time elapsed
+
+      17,173522000 seconds user
+       0,011995000 seconds sys
+
+
+# started on Wed Jul  1 20:54:48 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.129.141.568      branch-instructions                                         
+         1.650.690      branch-misses             #    0,15% of all branches        
+
+      21,694124365 seconds time elapsed
+
+      21,623592000 seconds user
+       0,019984000 seconds sys
+
+
+# started on Wed Jul  1 20:55:10 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.132.749.688      branch-instructions                                         
+         1.598.162      branch-misses             #    0,14% of all branches        
+
+      19,205467935 seconds time elapsed
+
+      19,148611000 seconds user
+       0,032004000 seconds sys
+
+
+# started on Wed Jul  1 20:55:29 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.127.800.040      branch-instructions                                         
+         1.374.640      branch-misses             #    0,12% of all branches        
+
+      18,458605370 seconds time elapsed
+
+      18,435007000 seconds user
+       0,007996000 seconds sys
+
+
+# started on Wed Jul  1 20:55:48 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.160.101.797      branch-instructions                                         
+         2.436.557      branch-misses             #    0,21% of all branches        
+
+      18,513677960 seconds time elapsed
+
+      18,429449000 seconds user
+       0,027935000 seconds sys
+
+
+# started on Wed Jul  1 20:56:06 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.127.477.938      branch-instructions                                         
+         1.298.889      branch-misses             #    0,12% of all branches        
+
+      19,163623900 seconds time elapsed
+
+      19,135871000 seconds user
+       0,024009000 seconds sys
+
+
+# started on Wed Jul  1 20:56:25 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.127.526.075      branch-instructions                                         
+         1.319.933      branch-misses             #    0,12% of all branches        
+
+      18,420314426 seconds time elapsed
+
+      18,386494000 seconds user
+       0,024022000 seconds sys
+
+
+# started on Wed Jul  1 20:56:44 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.127.241.104      branch-instructions                                         
+         1.293.419      branch-misses             #    0,11% of all branches        
+
+      17,816565748 seconds time elapsed
+
+      17,774822000 seconds user
+       0,036005000 seconds sys
+
+
+# started on Wed Jul  1 20:57:02 2020
+
+
+ Performance counter stats for './matrixMult.exe 0 1024 1024 1024 1024':
+
+     1.127.566.160      branch-instructions                                         
+         1.322.133      branch-misses             #    0,12% of all branches        
+
+      18,318496844 seconds time elapsed
+
+      18,289345000 seconds user
+       0,011995000 seconds sys
+
+

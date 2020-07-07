@@ -1,0 +1,14 @@
+# started on Thu Jun 18 17:50:33 2020
+
+
+ Performance counter stats for './btree-march 20':
+
+     8.978.043.932      L1-dcache-loads                                             
+        98.303.233      L1-dcache-load-misses     #    1,09% of all L1-dcache hits  
+
+       5,678991553 seconds time elapsed
+
+       5,555985000 seconds user
+       0,083818000 seconds sys
+
+

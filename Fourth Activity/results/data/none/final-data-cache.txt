@@ -1,0 +1,70 @@
+# started on Thu Jun 18 17:49:59 2020
+
+
+ Performance counter stats for './btree-none 20':
+
+     8.978.069.202      L1-dcache-loads                                             
+        99.242.069      L1-dcache-load-misses     #    1,11% of all L1-dcache hits  
+
+       5,750009275 seconds time elapsed
+
+       5,584048000 seconds user
+       0,123735000 seconds sys
+
+
+# started on Thu Jun 18 17:50:05 2020
+
+
+ Performance counter stats for './btree-none 20':
+
+     8.977.590.814      L1-dcache-loads                                             
+        97.260.280      L1-dcache-load-misses     #    1,08% of all L1-dcache hits  
+
+       5,796362116 seconds time elapsed
+
+       5,669598000 seconds user
+       0,088149000 seconds sys
+
+
+# started on Thu Jun 18 17:50:11 2020
+
+
+ Performance counter stats for './btree-none 20':
+
+     8.977.739.130      L1-dcache-loads                                             
+        97.299.657      L1-dcache-load-misses     #    1,08% of all L1-dcache hits  
+
+       5,588296017 seconds time elapsed
+
+       5,478804000 seconds user
+       0,068184000 seconds sys
+
+
+# started on Thu Jun 18 17:50:16 2020
+
+
+ Performance counter stats for './btree-none 20':
+
+     8.977.262.400      L1-dcache-loads                                             
+        98.063.221      L1-dcache-load-misses     #    1,09% of all L1-dcache hits  
+
+       5,542889490 seconds time elapsed
+
+       5,461267000 seconds user
+       0,079959000 seconds sys
+
+
+# started on Thu Jun 18 17:50:22 2020
+
+
+ Performance counter stats for './btree-none 20':
+
+     8.978.036.327      L1-dcache-loads                                             
+        98.254.369      L1-dcache-load-misses     #    1,09% of all L1-dcache hits  
+
+       5,647934193 seconds time elapsed
+
+       5,549759000 seconds user
+       0,087901000 seconds sys
+
+

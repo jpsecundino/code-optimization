@@ -1,0 +1,70 @@
+# started on Thu Jun 18 17:51:59 2020
+
+
+ Performance counter stats for './btrees-paper 20':
+
+     8.364.193.345      L1-dcache-loads                                             
+        98.294.073      L1-dcache-load-misses     #    1,18% of all L1-dcache hits  
+
+       5,316247566 seconds time elapsed
+
+       5,201467000 seconds user
+       0,083830000 seconds sys
+
+
+# started on Thu Jun 18 17:52:05 2020
+
+
+ Performance counter stats for './btrees-paper 20':
+
+     8.363.755.081      L1-dcache-loads                                             
+        98.252.917      L1-dcache-load-misses     #    1,17% of all L1-dcache hits  
+
+       5,381616192 seconds time elapsed
+
+       5,278032000 seconds user
+       0,091896000 seconds sys
+
+
+# started on Thu Jun 18 17:52:10 2020
+
+
+ Performance counter stats for './btrees-paper 20':
+
+     8.363.765.272      L1-dcache-loads                                             
+        99.478.476      L1-dcache-load-misses     #    1,19% of all L1-dcache hits  
+
+       5,502991284 seconds time elapsed
+
+       5,335346000 seconds user
+       0,112070000 seconds sys
+
+
+# started on Thu Jun 18 17:52:16 2020
+
+
+ Performance counter stats for './btrees-paper 20':
+
+     8.364.263.353      L1-dcache-loads                                             
+        97.911.058      L1-dcache-load-misses     #    1,17% of all L1-dcache hits  
+
+       5,522452758 seconds time elapsed
+
+       5,399862000 seconds user
+       0,079997000 seconds sys
+
+
+# started on Thu Jun 18 17:52:21 2020
+
+
+ Performance counter stats for './btrees-paper 20':
+
+     8.363.483.941      L1-dcache-loads                                             
+       100.459.472      L1-dcache-load-misses     #    1,20% of all L1-dcache hits  
+
+       5,520731727 seconds time elapsed
+
+       5,388783000 seconds user
+       0,115844000 seconds sys
+
+
